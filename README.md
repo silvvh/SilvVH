@@ -20,7 +20,7 @@
 </p>
 </div>
 <h2>🌟 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎: </h2>
-<h3>- I'm 18 years computer science and systems analysis student, focusing in software development.</h3>
+<h3>- I'm 18 years old computer science and systems analysis student, focusing in software development.</h3>
 
 <h3>- Learning: </h3>
 <h4> 🚀 Mobile Development (Flutter Framework).</h5>
