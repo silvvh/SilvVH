@@ -1,8 +1,7 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+I'm+Rein!!!" alt="Typing SVG" /></a>
 </h1>
-<div align="left" dir="auto">
-<img src="https://31.media.tumblr.com/e03b9fc15c5805a2dc045d8fcb7894eb/tumblr_mt14dofPzA1sb20ljo1_500.gif"/>
-</div>
+<div align="center" dir="auto">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a67ac30c-fe21-4e97-8dad-ffa8b2670167/dbpjw5t-23ed5ea9-1d62-4990-8983-75f245a5632b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2N2FjMzBjLWZlMjEtNGU5Ny04ZGFkLWZmYThiMjY3MDE2N1wvZGJwanc1dC0yM2VkNWVhOS0xZDYyLTQ5OTAtODk4My03NWYyNDVhNTYzMmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qrvsQq-bhNOo0lpxod8npk87n-mAe-7JC3VbLLWZR-U" srcset="" style="width:228px;height:165px"></div>
 <hr>
 <div>
 <h2>🌟 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎:</h2>
