@@ -22,10 +22,9 @@
 </p>
 </div>
 <h2>🌟 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎: </h2>
-<h3>- I'm 18 years old computer science and systems analysis student, focusing in software development.</h3>
+<h3>- I'm 18 years old computer science and systems analysis student, focusing in back-end development.</h3>
 
-<h3>- Learning: </h3>
-<h4> 🚀 Mobile Development (Flutter Framework).</h5>
-<h4> 🚀 Data Structures & Algorithms. </h5>
-<h4> 🚀 Network protocols.</h5>
+<h3>- Interests: </h3>
+<h4> 🚀 Web Development (Back-end).</h4>
+<h4> 🚀 Network Architecture</h5>
 <hr>
