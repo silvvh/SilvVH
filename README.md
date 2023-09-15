@@ -24,5 +24,6 @@
 
 <h3>- Interests: </h3>
 <h4> 🚀 Web Development (Back-end).</h4>
-<h4> 🚀 Network Architecture</h5>
+<h4> 🚀 Data Science </h4>
+<h4> 🚀 Cibersecurity </h4>
 <hr>
