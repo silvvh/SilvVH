@@ -26,7 +26,7 @@
 </p>
 </div>
 <h2>🌟 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎: </h2>
-<h3>- I'm 18 years old computer science and systems analysis student, focusing in back-end development.</h3>
+<h3>- I'm 18 years old computer, focusing in back-end development.</h3>
 
 <h3>- Interests: </h3>
 <h4> 🚀 Web Development (Back-end).</h4>
