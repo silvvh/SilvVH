@@ -10,7 +10,6 @@
 <li>🌐 Currently, I'm also studying cibersecurity at Cisco Networking Academy.</li>
 </ul>
 </div>
-<hr>
 <h2>💡 Techs:</h2>
 <div>
   <p>
