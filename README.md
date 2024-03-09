@@ -31,4 +31,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
 </p>
+  <div>
+    <h2>⭐ Stats: </h2>
+  <p>
+    <h3>Top Languages: </h3>
+    
+  ---
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvvh&theme=tokyonight&layout=compact)](https://github.com/silvvh/github-readme-stats)  
+  
+  ---  
+  
+  <h3>Profile: </h3>
+  
+  ---
+  
+  ![Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=silvvh&show_icons=true&theme=tokyonight)
+  
+  ---
+  </p>
+</div>
 </div>
