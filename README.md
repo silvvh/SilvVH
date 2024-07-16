@@ -49,13 +49,6 @@
   
   ---  
   
-  <h3>Profile: </h3>
-  
-  ---
-  
-  ![Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=silvvh&show_icons=true&theme=tokyonight)
-  
-  ---
   </p>
 </div>
 </div>
