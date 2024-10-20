@@ -1,12 +1,11 @@
-  <div dir="auto" align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a67ac30c-fe21-4e97-8dad-ffa8b2670167/dbpjw5t-23ed5ea9-1d62-4990-8983-75f245a5632b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2N2FjMzBjLWZlMjEtNGU5Ny04ZGFkLWZmYThiMjY3MDE2N1wvZGJwanc1dC0yM2VkNWVhOS0xZDYyLTQ5OTAtODk4My03NWYyNDVhNTYzMmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qrvsQq-bhNOo0lpxod8npk87n-mAe-7JC3VbLLWZR-U" srcset="" style="width:228px;height:165px"></div>
 <hr>
 </div>
 <div id="bio">
 <h2>🚀 About Me:</h2>
   <ul>
-<li>💻 I'm a software developer focusing in back-end development.</li>
-<li>🎓 Studying Computer Science at Universidade Tecnológica Federal do Paraná (UTFPR).</li>
+<li>💻 I'm a fullstack developer current working in Vue and Springboot applications.</li>
+<li>📖 Currently studying artificial intelligence and software architecture. </li>
+<li>🎓 Computer Science student at Universidade Tecnológica Federal do Paraná (UTFPR).</li>
 </ul>
 </div>
 <h2>💡 Techs:</h2>
@@ -38,17 +37,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
 </p>
-  <div>
-    <h2>⭐ Stats: </h2>
-  <p>
-    <h3>Top Languages: </h3>
-    
-  ---
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvvh&theme=tokyonight&layout=compact)](https://github.com/silvvh/github-readme-stats)  
-  
-  ---  
-  
-  </p>
-</div>
 </div>
