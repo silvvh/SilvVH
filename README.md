@@ -3,8 +3,7 @@
 <div id="bio">
 <h2>🚀 About Me:</h2>
   <ul>
-<li>💻 I'm a fullstack developer current working in Vue and Springboot applications.</li>
-<li>📖 Currently studying artificial intelligence and software architecture. </li>
+<li>💻 Fullstack developer with experience at Exati working with Vue and Spring Boot. Currently at Benner, developing enterprise solutions using ASP.NET.</li>
 <li>🎓 Computer Science student at Universidade Tecnológica Federal do Paraná (UTFPR).</li>
 </ul>
 </div>
