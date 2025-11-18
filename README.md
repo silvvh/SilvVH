@@ -3,7 +3,8 @@
 <div id="bio">
 <h2>🚀 About Me:</h2>
   <ul>
-<li>💻 Fullstack developer with experience at Exati working with Vue and Spring Boot. Currently at Benner, developing enterprise solutions using ASP.NET.</li>
+<li>💻 Fullstack developer with experience at Exati working with Vue and Spring Boot. </li>
+<li>💼 Currently at Benner, developing enterprise solutions using ASP.NET.</li>
 <li>🎓 Computer Science student at Universidade Tecnológica Federal do Paraná (UTFPR).</li>
 </ul>
 </div>
